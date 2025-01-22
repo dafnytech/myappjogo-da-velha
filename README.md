@@ -1,6 +1,6 @@
-# myapp
+# Jogo da velha
 
-A new Flutter project.
+Um projeto do famoso jogoda velha, onde você pode jogar contra o computador!
 
 ## Getting Started
 
